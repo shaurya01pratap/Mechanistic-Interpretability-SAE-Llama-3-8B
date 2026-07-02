@@ -1,0 +1,16 @@
+pandas
+numpy<2.0.0
+matplotlib
+seaborn
+scipy
+google-generativeai
+torch
+plotly
+transformers
+scikit-learn
+huggingface-hub
+safetensors
+sae-lens
+accelerate
+bitsandbytes>=0.46.1
+python-dotenv
